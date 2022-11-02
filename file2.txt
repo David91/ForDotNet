@@ -2,3 +2,4 @@ second file first line
 second file second line
 second file first line
 second file second line ( added on feature_2 branch )
+some other info
