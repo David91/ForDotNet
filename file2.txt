@@ -1,2 +1,2 @@
-second file first line
+second file first line ( added some text )
 second file second line
